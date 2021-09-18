@@ -1,4 +1,4 @@
-# C++-Program
+# C++ Program
 Hey Everyone!
 
 This is my first c++ program, as i'm trying to learn the language.
